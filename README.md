@@ -2,7 +2,7 @@
 ## Transforming Housing Data into Predictive Pricing Intelligence
 This repository contains a complete regression analysis of the Boston Housing dataset.
 Using Python and Scikit-learn, housing features were transformed into an interpretable predictive model to estimate property prices and identify the key factors influencing value.
-##Key Insights
+## Key Insights
 - Price Drivers:
 The number of rooms (RM) has the strongest positive impact on house prices.
 
