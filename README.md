@@ -55,5 +55,3 @@ model.fit(X_train, y_train)
 
 - Report: Final presentation slides summarizing findings and recommendations.
 
-Report
-Exported PDF summarizing methodology, insights, and recommendations
